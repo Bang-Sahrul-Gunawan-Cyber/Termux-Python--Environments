@@ -1,3 +1,10 @@
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bang-sahrul-gunawan-cyber&" alt="Termux-Python--Environments" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bang-sahrul-gunawan-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="Termux-Python--Environments" /> </p>
+<h3 align="left">My Instagram:</h3>
+<p align="left">
+<a href="https://instagram.com/wes_kadung_rewel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wes_kadung_rewel" height="30" width="40" /></a>
+</p>
+
 # Setup Install Python ENV
 - Siapkan Bahan Dulu Sebelum Install
 - Siapkan Kuota Anda
