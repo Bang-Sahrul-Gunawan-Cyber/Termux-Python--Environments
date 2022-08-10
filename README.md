@@ -22,7 +22,7 @@
 - Install Python Nya Dulu
 
 ```
-apt list python3-venv
+apt install python python2 -y
 ```
 
 [ ] Bagian 2
